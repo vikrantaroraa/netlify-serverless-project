@@ -1,0 +1,23 @@
+{
+  "name": "netlify-serverless-project",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikrantaroraa/netlify-serverless-project.git"
+  },
+  "author": "Vikrant Arora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikrantaroraa/netlify-serverless-project/issues"
+  },
+  "homepage": "https://github.com/vikrantaroraa/netlify-serverless-project#readme",
+  "devDependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
